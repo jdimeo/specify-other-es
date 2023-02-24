@@ -1,6 +1,6 @@
 {
-	"name" : "Specify other",
-	"author" : "Dobility",
+	"name" : "Specify other (Spanish)",
+	"author" : "jdimeo",
 	"version": "1.0.0",
 	"supportedFieldTypes": ["select_one", "select_multiple"],
 	"hideDefaultRequiredMessage": false,

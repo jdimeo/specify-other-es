@@ -70,7 +70,7 @@ otherContainer.style.display = 'none'
 var otherInput = document.createElement('textarea')
 otherInput.setAttribute('type', 'text')
 otherInput.setAttribute('id', 'other-input')
-otherInput.setAttribute('placeholder', 'Enter other response here' + (requireOther ? '' : ' (optional)') + '...') // Add "optional" if not required
+otherInput.setAttribute('placeholder', 'Escriba aquí otra respuesta...') // Add "optional" if not required
 otherInput.setAttribute('dir', 'auto')
 otherInput.setAttribute('autocomplete', 'off')
 otherInput.appendChild(document.createTextNode(inputValue))
